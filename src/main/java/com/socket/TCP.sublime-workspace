@@ -1,0 +1,259 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"colorpick",
+				"Color Picker"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"i",
+				"Package Control: Install Package→安装插件"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/zhangdi21/Downloads/error1.log",
+		"/C/Users/zhangdi21/Downloads/examinedcommonservice.log",
+		"/C/Users/zhangdi21/Downloads/error2.log",
+		"/C/Users/zhangdi21/Downloads/error3.log",
+		"/C/Users/zhangdi21/Downloads/error4.log",
+		"/C/Users/zhangdi21/Downloads/hbg_scf_houseMapping.log",
+		"/C/Users/zhangdi21/Desktop/tbl_house_id_mapping.sql",
+		"/C/Users/zhangdi21/Desktop/tbl_pic_id_mapping.sql",
+		"/C/Users/zhangdi21/Desktop/tbl_house_design.sql",
+		"/D/download/23401076_8AEB571A61EF3D1D7573A502569BE7EF.out.txt",
+		"/D/result.txt",
+		"/D/download/opencv-2.4.9/apps/traincascade/boost.h",
+		"/C/Users/zhangdi21/Desktop/t_store_borker_sale_data.sql",
+		"/D/result",
+		"/D/temp.txt",
+		"/D/download/23004518_9FE3B4F225A33FF495C256A262082775.out.txt",
+		"/C/Users/zhangdi21/Downloads/commercialhousedetail.log",
+		"/D/weixinLog/WeChat Files/wxid_06s4lk8p09q922/FileStorage/File/2020-07/详情页协议说明(3).json",
+		"/D/download/wos-java-sdk-demo/src/main/java/com/bj58/spat/wos/client/demo/Demo.java",
+		"/D/weixinLog/WeChat Files/zdatbit/FileStorage/File/2020-03/settings.xml",
+		"/C/Users/zhangdi21/Downloads/housedetail.log",
+		"/D/download/hbg_scf_trueHouse.key",
+		"/D/download/22398540_4D6F8E3CC9FE82349106C4490A16A309.out.txt",
+		"/C/Users/zhangdi21/AppData/Local/Temp/Rar$DIa15572.26438/Demo.java",
+		"/C/Users/zhangdi21/AppData/Local/Temp/Rar$DIa15572.11889/pom.xml",
+		"/C/Users/zhangdi21/Desktop/operator_count.sql",
+		"/C/Users/zhangdi21/Downloads/hbg_scf_infoinspect.log",
+		"/D/cityIds.log",
+		"/D/download/21443731_6A906E8407A46D79F4E8BB6F9E43E332.out.txt",
+		"/D/l2.txt",
+		"/D/download/21443834_FE602D15595CCC71BACB09BC0404456B.out.txt",
+		"/D/l1.txt",
+		"/C/Users/zhangdi21/Desktop/image_mark_0.sql",
+		"/D/download/wconfigdemo/src/main/java/com/wconfig/demo/test/Test.java",
+		"/C/Users/zhangdi21/Downloads/hbg_scf_markdown.log",
+		"/C/Users/zhangdi21/Desktop/mark_operate.sql",
+		"/C/Users/zhangdi21/AppData/Local/Temp/Rar$DIa3572.10934/ParseData.java",
+		"/C/Users/zhangdi21/Desktop/新建文本文档.txt",
+		"/D/download/wtable-example/wtable.example/src/main/java/com/bj58/spat/wtable/example/Example.java",
+		"/D/BaiduNetdiskDownload/58文档总结/信息治理文档总结.txt",
+		"/C/Users/zhangdi21/.ssh/id_rsa.pub",
+		"/C/Users/Administrator/Downloads/hbg_scf_markdown.log",
+		"/D/weixinLog/WeChat Files/zdatbit/FileStorage/File/2020-04/UserInfo.java",
+		"/D/mysoft/mavenRepository/com/bj58/spat/com.bj58.spat.scf.client/2.2.51/scf.config",
+		"/D/download/scfkey.key",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/weixinLog/WeChat Files/zdatbit/FileStorage/File/2020-04/test.java",
+		"/D/download/clusterkey",
+		"/D/download/jetbrains-agent/README.txt",
+		"/D/download/jetbrains-agent/lib/important.txt",
+		"/D/download/jetbrains-agent/lib/ACTIVATION_CODE.txt",
+		"/C/Program Files/VanDyke Software/SecureCRT/SecureCRT_History.txt",
+		"/C/Program Files/VanDyke Software/SecureCRT/SecureCRT_Readme.txt",
+		"/D/BaiduNetdiskDownload/58文档总结/各种地址.txt",
+		"/D/BaiduNetdiskDownload/58个人总结/技术相关/hadoop/hdfs.txt",
+		"/C/Users/zhangdi21/AppData/Local/Temp/Rar$DIa12220.27848/visio2016的网盘地址.txt",
+		"/C/Users/zhangdi21/AppData/Local/Temp/Rar$DIa15248.4631/readme.txt",
+		"/D/BaiduNetdiskDownload/58个人总结/技术相关/IO数据网络传输/select调用过程.txt",
+		"/D/BaiduNetdiskDownload/58个人总结/技术相关/IO数据网络传输/NIO、select、poll和epoll.txt",
+		"/D/mysoft/mysql-8.0.19-winx64/my.ini",
+		"/D/weixinLog/WeChat Files/zdatbit/FileStorage/File/2020-03/settings(1).xml",
+		"/D/download/scfkey (1).key",
+		"/C/Users/zhangdi21/Desktop/mark_auth.sql",
+		"/D/BaiduNetdiskDownload/58个人总结/技术相关/java.txt",
+		"/D/BaiduNetdiskDownload/58个人总结/技术相关/知识点.txt",
+		"/C/Users/zhangdi21/Downloads/hbg_scf_infocloseup.log",
+		"/D/BaiduNetdiskDownload/58个人总结/技术相关/hadoop.md",
+		"/C/Users/zhangdi21/AppData/Local/Temp/Rar$DIa12152.4473/office 2016 and visio 2016下载[百度网盘资源地址].txt",
+		"/E/程序设计/Python/testproject/sublimetest.py",
+		"/D/Program Files (x86)/Sublime_Text3_Stable_Build_3176_x64_Chs/Sublime Text/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Program Files (x86)/Sublime_Text3_Stable_Build_3176_x64_Chs/Sublime Text/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Program Files (x86)/Sublime_Text3_Stable_Build_3176_x64_Chs/Sublime Text/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Program Files (x86)/Sublime_Text3_Stable_Build_3176_x64_Chs/Sublime Text/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Ronales/Desktop/config.py",
+		"/D/Google_downloadFile/新建文件夹/Google_downloadFile - 快捷方式.lnk"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 135.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TCP.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 54.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
